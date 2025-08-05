@@ -3,7 +3,7 @@
 /* ------------------------- */
 :root {
     --bg-color: #27272A;
-    --primary-color: #D14ED4;
+    --primary-color: #BD4DBF;
     --text-color: #F4F4F5;
     --dark-gray: #3F3F46;
     --font-heading: 'Montserrat', sans-serif;
@@ -428,3 +428,4 @@ h1 {
         text-align: center;
     }
 }
+
