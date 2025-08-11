@@ -125,19 +125,19 @@ img {
 }
 
 .pagina-inicio #hero {
-    background-image: url('images/foto-fundo-inicio.jpg');
+    background-image: url('images/foto-fundo-inicio.webp');
 }
 
 .pagina-proteinas #hero {
-    background-image: url('images/foto-fundo-proteinas.jpg');
+    background-image: url('images/foto-fundo-proteinas.webp');
 }
 
 .pagina-energia #hero {
-    background-image: url('images/foto-fundo-energia.jpg');
+    background-image: url('images/foto-fundo-energia.webp');
 }
 
 .pagina-contato #hero {
-    background-image: url('images/foto-fundo-contato.jpg');
+    background-image: url('images/foto-fundo-contato.webp');
 }
 
 
